@@ -1,4 +1,4 @@
-# Maintenance-Application
+# Maintenance Application using QR code
 
 Within the UWE learning environment, it can be difficult to report technical issues with different equipment. The reason for this is that many students believe that the process of reporting issues can be challenging. The impact this has, may cause disruption to work progress if the process of reporting is slow. To help students within the university report technical issues to an easy extent, our web application was designed. This prototype includes an application that connects to a database allowing users to scan a QR code and report technical issues based on equipment within the campus.             This application also provides huge satisfaction for IT services as they will be able to issue and locate tickets effectively based on the new system and therefore deal with issues quickly. 
  
