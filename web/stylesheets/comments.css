@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    height: 170px;
+    border-radius: 3px;
+}
+
+h2 {
+    text-align: center;
+    float: center;
+}
+
+body {
+    background: #efefef;
+    font-family: "Arial";
+    text-align: center;
+    margin-top: 5px;
+}
+
+a {  
+    color: #efefef;
+    text-decoration: none;
+}
+
+textarea {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: 2px solid #dddddd;
+    max-width: 330px;
+}
+
+#myDiv {
+    background-color: white;
+    min-width: 342px;
+    padding-top: 20px;
+    box-shadow: 0px 0px 20px #00000020;
+    border-radius: 3px;
+    padding-bottom: 30px;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+p {
+    margin-top: 20px;
+}
+
+.btn-primary {
+    background-color: #6f42c1 !important;
+    border-color: #6f42c1 !important;
+    width: 100px;
+}
+
+#counter {
+    height: 16px;
+    padding-left: 220px;
+}
