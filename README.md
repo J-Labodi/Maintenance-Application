@@ -39,7 +39,7 @@ During the process of reporting a technical issue with the application, the user
 <img src="https://user-images.githubusercontent.com/79979904/180219145-9caa0eea-bec7-4c74-9fd9-dbe5d1d69083.png" width="700" height="600">
 
 
-**Example of a successfuly submitted service request in the database**
+**Example of a successfuly submitted service request in the cloud database**
 
 ![DB](https://user-images.githubusercontent.com/79979904/180403775-c80867ab-e18c-4347-8c1e-0e6d25dd29d9.PNG)
 
