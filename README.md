@@ -12,7 +12,7 @@ Some of the challenges you faced and features you hope to implement in the futur
 
 Within UWE, QR codes are used around the whole campus as a way of knowing what lessons are taking place in specific rooms at what time. From this idea, we wanted to implement this into our project as a way of reporting technical issues. Students should be able to locate an issue and report it in a quick manner so the issue can be resolved without it being a major concern. The use of a QR code placed on each piece of technical equipment allows users to scan equipment on the go and report issues when needed.
 
-The flow of the new application is straightforward and establishes an easy reporting process:
+The flow of the new application is straightforward and establishes the following reporting process:
 
 1	Scan QR code on faulty equipment.
 
