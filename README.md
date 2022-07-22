@@ -49,7 +49,7 @@ During the process of reporting a technical issue with the application, the user
 
 <img src="https://user-images.githubusercontent.com/79979904/180219145-9caa0eea-bec7-4c74-9fd9-dbe5d1d69083.png" width="700" height="600">
 
-The application has be deployed on Heroku and it utilizes a relational database in the cloud provided by ClearDB.  
+The application has been deployed on Heroku and it utilizes a relational database in the cloud provided by ClearDB.  
 
 ## Extension of the application  
 **UC2: Complete the service request**  
