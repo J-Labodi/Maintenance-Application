@@ -1,7 +1,6 @@
 # Maintenance-Application
 
-Project's Title
-This is the name of the project. It describes the whole project in one sentence, and helps people understand what the main goal and aim of the project is.
+The aim of the project is to implement a responsive web application that may be utilized by UWE students and staff to report faulty equipment within the university campus. This project consits of an initial research that explored the staholders' opinion on the current system that based on contacting UWE IT Services by email as well as feedback on a range of proposed fatures of the maintenance application. The scope of the project also included designing and developing a MVP that may be presented to UWE ITS as proof of concept.
 
 Within the UWE learning environment, it can be difficult to report technical issues with different equipment. The reason for this is that many students believe that the process of reporting issues can be challenging. The impact this has, may cause disruption to work progress if the process of reporting is slow. To help students within the university report technical issues to an easy extent, our web application was designed. This prototype includes an application that connects to a database allowing users to scan a QR code and report technical issues based on equipment within the campus.             This application also provides huge satisfaction for IT services as they will be able to issue and locate tickets effectively based on the new system and therefore deal with issues quickly. 
 
