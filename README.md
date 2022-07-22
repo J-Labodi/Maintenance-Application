@@ -26,7 +26,7 @@ The UWE Maintenance Application establishes the following reporting process:
   
 # Access to the deployed MVP
 
-![image](https://user-images.githubusercontent.com/79979904/180199771-f7100d7b-a13f-4c86-a851-07e6424b096f.png)
+![image](https://user-images.githubusercontent.com/79979904/180199771-f7100d7b-a13f-4c86-a851-07e6424b096f.png =100x20)
 
 The above-represented QR Code contains the following URL that redirects the user to the UWE Maintanenace Web Application after scanning the QR Code. 
 
