@@ -43,8 +43,7 @@ During the process of reporting a technical issue with the application, the user
 
 ![DB](https://user-images.githubusercontent.com/79979904/180403775-c80867ab-e18c-4347-8c1e-0e6d25dd29d9.PNG)
 
-![Screenshot_20220722-115809_Chrome](https://user-images.githubusercontent.com/79979904/180426836-752aae8a-eebe-4fbd-825e-2a27fa1eb461.jpg)
-
+![untitled@2x](https://user-images.githubusercontent.com/79979904/180428849-d0222df0-dca0-457e-abb3-3b5ca1f87af3.png)
 
 # Possible extension of the application  
 **UC2: Complete the service request**
