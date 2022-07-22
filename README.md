@@ -16,11 +16,14 @@ The UWE Maintenance Application establishes the following reporting process:
 6. Submit the service request.
 7. Retrieve an unique ticket number from the database.
 
+
 **UC1: Report technical issue with an equipment** 
 ![Wireframe_1(User)](https://user-images.githubusercontent.com/79979904/180199178-2ed540fe-ec46-483e-ae37-6a7db17bffa6.png)
 
+
 **Storyboard, representing the sequence of steps to report faulty equipment**
 ![image](https://user-images.githubusercontent.com/79979904/180201836-8b133397-4820-49df-b896-626180cdc329.png)
+
 
 **UC2: UWE IT Service complete the service request**
 ![Wireframe_2(ITS)](https://user-images.githubusercontent.com/79979904/180199257-a7e0cba0-b3c7-4dd0-a5fa-112cbea8d825.png)
