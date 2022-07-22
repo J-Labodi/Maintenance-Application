@@ -38,9 +38,6 @@ During the process of reporting a technical issue with the application, the user
 
 <img src="https://user-images.githubusercontent.com/79979904/180219145-9caa0eea-bec7-4c74-9fd9-dbe5d1d69083.png" width="700" height="600">
 
-![Picture1](https://user-images.githubusercontent.com/79979904/180424888-99bd38dc-1d62-4da1-966c-9c2df854ee35.png)
-
-
 
 **Example of a successfuly submitted service request in the database**
 
