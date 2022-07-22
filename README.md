@@ -4,17 +4,17 @@ The aim of the project is to implement a responsive web application that may be 
 
 ## Project Description
 
-UWE students and staff should be able to locate damaged teaching equipment and report it in a quick manner so the issue can be resolved without it being a major concern. QR codes placed on the relevant technical equipment allows users to report issues when needed.
+UWE students and staff should be able to locate damaged teaching equipment and report it in a quick manner so the issue can be resolved without it being a major concern. QR codes placed on the relevant technical equipment allow users to report issues when needed.
 
 The UWE Maintenance Application establishes the following reporting process:
 
-1. Scan the unique QR code that placed on the equipment.
+1. Scan the unique QR code that is placed on the equipment.
 2. Input your UWE username.
 3. Retrieve a set of equipment details as well as a basic questionnaire related to the issue from the database.
 4. Describe the technical issue in your own words.
-5. Upload an optional photo evidence of the technical issue.
+5. Upload optional photo evidence of the technical issue.
 6. Submit the service request.
-7. Retrieve an unique ticket number from the database.  
+7. Retrieve a unique ticket number from the database.  
     
 **UC1: Report faulty equipment**  
 
