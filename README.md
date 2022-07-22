@@ -43,7 +43,7 @@ During the process of reporting a technical issue with the application, the user
 ![DB](https://user-images.githubusercontent.com/79979904/180403775-c80867ab-e18c-4347-8c1e-0e6d25dd29d9.PNG)
 
 # Possible extension of the application  
-**UC2:Complete the service request**
+**UC2: Complete the service request**
 ![Wireframe_2(ITS)](https://user-images.githubusercontent.com/79979904/180199257-a7e0cba0-b3c7-4dd0-a5fa-112cbea8d825.png)
 
 
