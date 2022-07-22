@@ -57,13 +57,13 @@ The application has been deployed on Heroku and it utilizes a relational databas
 ![Wireframe_2(ITS)](https://user-images.githubusercontent.com/79979904/180199257-a7e0cba0-b3c7-4dd0-a5fa-112cbea8d825.png)
 
 Altough the project's scope is limited to deliver a proof concept system that can be utilized to report faulty equipments within the university campus, the application may be refactored considering the above represented use case. The application may be extended with a set of features that would provide addtional functinality to priviliged users such as UWE IT Services technicians. Possible functionalities that may be implemented in the application for priviliged users:  
-* New Equipment menu to record equipments to the database
-* Edit Details option to update existing equipment detials
+* New Equipment menu to record equipments into the database
+* Edit Details option to update existing equipment details
 * Ticket counter for the scanned euipment to measure activity regarding the specific item
 * Ticket history with options to view previous tickets
 * View problem description and the details of the ticket submission
 * View photo evidence 
-* Complete the selected ticket 
+* Mark the selected ticket as completed
 
 
 
