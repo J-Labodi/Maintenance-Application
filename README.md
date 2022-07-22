@@ -15,9 +15,7 @@ The UWE Maintenance Application establishes the following reporting process:
 5. Upload an optional photo evidence of the technical issue.
 6. Submit the service request.
 7. Retrieve an unique ticket number from the database.  
-  
-  
-  
+    
 **UC1: Report faulty equipment**  
 
 ![Wireframe_1(User)](https://user-images.githubusercontent.com/79979904/180199178-2ed540fe-ec46-483e-ae37-6a7db17bffa6.png)  
@@ -27,7 +25,7 @@ The UWE Maintenance Application establishes the following reporting process:
 
 ![image](https://user-images.githubusercontent.com/79979904/180201836-8b133397-4820-49df-b896-626180cdc329.png)  
 
-### Access to the deployed MVP
+## Access to the deployed MVP
 
 <img src="https://user-images.githubusercontent.com/79979904/180199771-f7100d7b-a13f-4c86-a851-07e6424b096f.png" width="200">
 
