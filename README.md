@@ -4,11 +4,7 @@ The aim of the project is to implement a responsive web application that may be 
 
 # Project Description
 
-What your application does,
-Why you used the technologies you used,
-Some of the challenges you faced and features you hope to implement in the future.
-
-Within UWE, QR codes are used around the whole campus as a way of knowing what lessons are taking place in specific rooms at what time. From this idea, we wanted to implement this into our project as a way of reporting technical issues. Students should be able to locate an issue and report it in a quick manner so the issue can be resolved without it being a major concern. The use of a QR code placed on each piece of technical equipment allows users to scan equipment on the go and report issues when needed.
+UWE students and staff should be able to locate damaged teaching equipment and report it in a quick manner so the issue can be resolved without it being a major concern. QR codes placed on the relevant technical equipment allows users to report issues when needed.
 
 The UWE Maintenance Application establishes the following reporting process:
 
