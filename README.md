@@ -10,6 +10,26 @@ Project Description
 What your application does,
 Why you used the technologies you used,
 Some of the challenges you faced and features you hope to implement in the future.
+
+Within UWE, QR codes are used around the whole campus as a way of knowing what lessons are taking place in specific rooms at what time. From this idea, we wanted to implement this into our project as a way of reporting technical issues. Students should be able to locate an issue and report it in a quick manner so the issue can be resolved without it being a major concern. The use of a QR code placed on each piece of technical equipment allows users to scan equipment on the go and report issues when needed.
+
+The flow of the new application is straightforward and establishes an easy reporting process:
+
+1	Scan QR code on faulty equipment.
+
+2	Input UWE username.
+
+3	Retrieve further equipment details and a questionnaire related to the issue from the database.
+
+4	Describe the technical issue in your own words.
+
+5	Upload optional photo evidence of the technical issue.
+
+6	Submit a request.
+
+7	Retrieve ticket number from the database.
+
+
  
 ![Wireframe_1(User)](https://user-images.githubusercontent.com/79979904/180199178-2ed540fe-ec46-483e-ae37-6a7db17bffa6.png)
 
