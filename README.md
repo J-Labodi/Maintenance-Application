@@ -15,13 +15,16 @@ The UWE Maintenance Application establishes the following reporting process:
 5. Upload an optional photo evidence of the technical issue.
 6. Submit the service request.
 7. Retrieve an unique ticket number from the database.  
+  
+  
+  
+**UC1: Report faulty equipment**  
 
-
-**UC1: Report faulty equipment** 
 ![Wireframe_1(User)](https://user-images.githubusercontent.com/79979904/180199178-2ed540fe-ec46-483e-ae37-6a7db17bffa6.png)  
   
   
-**Sequence of steps to report a technical issue**
+**Sequence of steps to report a technical issue**  
+
 ![image](https://user-images.githubusercontent.com/79979904/180201836-8b133397-4820-49df-b896-626180cdc329.png)  
 
 # Access to the deployed MVP
@@ -38,7 +41,8 @@ During the process of reporting a technical issue with the application, the user
 
 <img src="https://user-images.githubusercontent.com/79979904/180219145-9caa0eea-bec7-4c74-9fd9-dbe5d1d69083.png" width="700" height="600">
 
-**Example of submitting a service request after scanning the QR code** <br>
+**Example of submitting a service request after scanning the QR code**  
+
 ![untitled@2x](https://user-images.githubusercontent.com/79979904/180428849-d0222df0-dca0-457e-abb3-3b5ca1f87af3.png)
 
 **Example of a successfuly submitted service request in the cloud database**
