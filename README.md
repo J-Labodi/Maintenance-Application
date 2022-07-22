@@ -38,6 +38,8 @@ During the process of reporting a technical issue with the application, the user
 
 ![image](https://user-images.githubusercontent.com/79979904/180219145-9caa0eea-bec7-4c74-9fd9-dbe5d1d69083.png)
 
+**Example of a successfuly submitted service request in the database**
+
 ![DB](https://user-images.githubusercontent.com/79979904/180403775-c80867ab-e18c-4347-8c1e-0e6d25dd29d9.PNG)
 
 # Possible extension of the application  
