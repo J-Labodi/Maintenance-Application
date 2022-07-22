@@ -38,12 +38,13 @@ During the process of reporting a technical issue with the application, the user
 
 <img src="https://user-images.githubusercontent.com/79979904/180219145-9caa0eea-bec7-4c74-9fd9-dbe5d1d69083.png" width="700" height="600">
 
+**Example of submitting a service request after scanning the QR code
+![untitled@2x](https://user-images.githubusercontent.com/79979904/180428849-d0222df0-dca0-457e-abb3-3b5ca1f87af3.png)
 
 **Example of a successfuly submitted service request in the cloud database**
 
 ![DB](https://user-images.githubusercontent.com/79979904/180403775-c80867ab-e18c-4347-8c1e-0e6d25dd29d9.PNG)
 
-![untitled@2x](https://user-images.githubusercontent.com/79979904/180428849-d0222df0-dca0-457e-abb3-3b5ca1f87af3.png)
 
 # Possible extension of the application  
 **UC2: Complete the service request**
