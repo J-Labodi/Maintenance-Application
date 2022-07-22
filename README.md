@@ -24,13 +24,13 @@ The UWE Maintenance Application establishes the following reporting process:
 **Sequence of steps to report faulty equipment**
 ![image](https://user-images.githubusercontent.com/79979904/180201836-8b133397-4820-49df-b896-626180cdc329.png)  
   
-  
+# Possible extension of the application  
 **UC2: UWE IT Service complete the service request**
 ![Wireframe_2(ITS)](https://user-images.githubusercontent.com/79979904/180199257-a7e0cba0-b3c7-4dd0-a5fa-112cbea8d825.png)
 
 ![image](https://user-images.githubusercontent.com/79979904/180199900-9c748f71-d3f4-4356-8f0d-9c7be29e0e24.png)
 
-
+# Access the deployed MVP
 ![image](https://user-images.githubusercontent.com/79979904/180219145-9caa0eea-bec7-4c74-9fd9-dbe5d1d69083.png)
 
 ![DB](https://user-images.githubusercontent.com/79979904/180403775-c80867ab-e18c-4347-8c1e-0e6d25dd29d9.PNG)
