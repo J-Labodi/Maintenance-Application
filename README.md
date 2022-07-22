@@ -24,7 +24,7 @@ The UWE Maintenance Application establishes the following reporting process:
 **Sequence of steps to report faulty equipment**
 ![image](https://user-images.githubusercontent.com/79979904/180201836-8b133397-4820-49df-b896-626180cdc329.png)  
   
-# Access the deployed MVP
+# Access to the deployed MVP
 
 ![image](https://user-images.githubusercontent.com/79979904/180199771-f7100d7b-a13f-4c86-a851-07e6424b096f.png)
 
