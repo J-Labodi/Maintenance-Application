@@ -17,7 +17,7 @@ The UWE Maintenance Application establishes the following reporting process:
 7. Retrieve an unique ticket number from the database.  
 
 
-**UC1:Report faulty equipment to the UWE IT Services** 
+**UC1: Report faulty equipment to the UWE IT Services** 
 ![Wireframe_1(User)](https://user-images.githubusercontent.com/79979904/180199178-2ed540fe-ec46-483e-ae37-6a7db17bffa6.png)  
   
   
