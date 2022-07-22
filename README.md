@@ -1,6 +1,6 @@
 # Maintenance-Application
 
-The aim of the project is to implement a responsive web application that may be utilized by UWE students and staff to report faulty equipment within the university campus. This project consits of an initial research that explored the staholders' opinion on the current system that based on contacting UWE IT Services by email as well as feedback on a range of proposed fatures of the maintenance application. The scope of the project consits of designing and developing a MVP that may be presented to UWE ITS as proof of concept.
+The aim of the project is to implement a responsive web application that may be utilized by UWE students and staff to report faulty equipment within the university campus. This project consits of an initial research that explored the staholders' opinion on the current system that based on contacting UWE IT Services by email as well as collected feedback on a range of proposed fatures of the maintenance application. The scope of the project consits of designing and developing a MVP that may be presented to UWE ITS as proof of concept.
 
 # Project Description
 
