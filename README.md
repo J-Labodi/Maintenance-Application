@@ -63,7 +63,7 @@ Although the project's scope is limited to delivering a proof concept system tha
 * Ticket counter for the scanned unit to measure activity regarding the specific equipment
 * Ticket history with option to view previous tickets
 * View the problem description and the details of the ticket submission
-* View photo evidence 
+* Access photo evidence 
 * Mark the selected ticket as completed
 
 
