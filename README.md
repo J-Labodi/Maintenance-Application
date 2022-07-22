@@ -23,7 +23,7 @@ The UWE Maintenance Application establishes the following reporting process:
   
 **Sequence of steps to report a technical issue**
 ![image](https://user-images.githubusercontent.com/79979904/180201836-8b133397-4820-49df-b896-626180cdc329.png)  
-  
+
 # Access to the deployed MVP
 
 <img src="https://user-images.githubusercontent.com/79979904/180199771-f7100d7b-a13f-4c86-a851-07e6424b096f.png" width="200">
@@ -37,6 +37,9 @@ This specific QR Code is placed on equipment that is assigned with the number 4 
 During the process of reporting a technical issue with the application, the user is redirected to various pages of the system, maintaining the relevant user input as well as the obtained data from the database by passing the appropriate values to the query string.  
 
 <img src="https://user-images.githubusercontent.com/79979904/180219145-9caa0eea-bec7-4c74-9fd9-dbe5d1d69083.png" width="700" height="600">
+
+![Picture1](https://user-images.githubusercontent.com/79979904/180424888-99bd38dc-1d62-4da1-966c-9c2df854ee35.png)
+
 
 
 **Example of a successfuly submitted service request in the database**
