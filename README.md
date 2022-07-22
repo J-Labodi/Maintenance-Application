@@ -25,13 +25,6 @@ The UWE Maintenance Application establishes the following reporting process:
 ![image](https://user-images.githubusercontent.com/79979904/180201836-8b133397-4820-49df-b896-626180cdc329.png)  
   
 # Access the deployed MVP
-![image](https://user-images.githubusercontent.com/79979904/180219145-9caa0eea-bec7-4c74-9fd9-dbe5d1d69083.png)
-
-![DB](https://user-images.githubusercontent.com/79979904/180403775-c80867ab-e18c-4347-8c1e-0e6d25dd29d9.PNG)
-
-
-How to Use the Project
-Provide instructions and examples so users/contributors can use the project. This will make it easy for them in case they encounter a problem – they will always have a place to reference what is expected.
 
 ![image](https://user-images.githubusercontent.com/79979904/180199771-f7100d7b-a13f-4c86-a851-07e6424b096f.png)
 
@@ -42,6 +35,10 @@ https://maintenance-appv1.herokuapp.com/login.php?room=FR3Q16&equipmentno=4
 The URL contains the domain of the deployed application as well as the file path of the “Login” page of the system. The query string is also equipped with values of “room” and “equipmentno” that represents the details of the number of the scanned equipment and its location within the campus. 
 This specific QR Code is placed on equipment that is assigned with the number 4 as an equipment number and it may be located in room 3Q16 of the FR (UWE Frenchay) campus. The application is designed to be able to autofill the equipment number and room number details of the “Login” page by retrieving the appropriate values from the query string.
 During the process of reporting a technical issue with the application, the user is redirected to various pages of the system, maintaining the relevant user input as well as the obtained data from the database by passing the appropriate values to the query string.  
+
+![image](https://user-images.githubusercontent.com/79979904/180219145-9caa0eea-bec7-4c74-9fd9-dbe5d1d69083.png)
+
+![DB](https://user-images.githubusercontent.com/79979904/180403775-c80867ab-e18c-4347-8c1e-0e6d25dd29d9.PNG)
 
 # Possible extension of the application  
 **UC2: UWE IT Service complete the service request**
