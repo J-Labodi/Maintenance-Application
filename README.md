@@ -24,12 +24,6 @@ The UWE Maintenance Application establishes the following reporting process:
 **Sequence of steps to report faulty equipment**
 ![image](https://user-images.githubusercontent.com/79979904/180201836-8b133397-4820-49df-b896-626180cdc329.png)  
   
-# Possible extension of the application  
-**UC2: UWE IT Service complete the service request**
-![Wireframe_2(ITS)](https://user-images.githubusercontent.com/79979904/180199257-a7e0cba0-b3c7-4dd0-a5fa-112cbea8d825.png)
-
-![image](https://user-images.githubusercontent.com/79979904/180199900-9c748f71-d3f4-4356-8f0d-9c7be29e0e24.png)
-
 # Access the deployed MVP
 ![image](https://user-images.githubusercontent.com/79979904/180219145-9caa0eea-bec7-4c74-9fd9-dbe5d1d69083.png)
 
@@ -49,6 +43,11 @@ The URL contains the domain of the deployed application as well as the file path
 This specific QR Code is placed on equipment that is assigned with the number 4 as an equipment number and it may be located in room 3Q16 of the FR (UWE Frenchay) campus. The application is designed to be able to autofill the equipment number and room number details of the “Login” page by retrieving the appropriate values from the query string.
 During the process of reporting a technical issue with the application, the user is redirected to various pages of the system, maintaining the relevant user input as well as the obtained data from the database by passing the appropriate values to the query string.  
 
+# Possible extension of the application  
+**UC2: UWE IT Service complete the service request**
+![Wireframe_2(ITS)](https://user-images.githubusercontent.com/79979904/180199257-a7e0cba0-b3c7-4dd0-a5fa-112cbea8d825.png)
+
+![image](https://user-images.githubusercontent.com/79979904/180199900-9c748f71-d3f4-4356-8f0d-9c7be29e0e24.png)
 
 
 
