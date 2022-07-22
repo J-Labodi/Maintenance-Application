@@ -61,7 +61,7 @@ Although the project's scope is limited to delivering a proof concept system tha
 * New Equipment menu to record equipment into the database
 * Edit Details option to update existing equipment details
 * Ticket counter for the scanned unit to measure activity regarding the specific equipment
-* Ticket history with options to view previous tickets
+* Ticket history with option to view previous tickets
 * View the problem description and the details of the ticket submission
 * View photo evidence 
 * Mark the selected ticket as completed
