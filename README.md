@@ -44,8 +44,6 @@ During the process of reporting a technical issue with the application, the user
 **UC2: UWE IT Service complete the service request**
 ![Wireframe_2(ITS)](https://user-images.githubusercontent.com/79979904/180199257-a7e0cba0-b3c7-4dd0-a5fa-112cbea8d825.png)
 
-![image](https://user-images.githubusercontent.com/79979904/180199900-9c748f71-d3f4-4356-8f0d-9c7be29e0e24.png)
-
 
 
 
