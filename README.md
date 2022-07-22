@@ -1,6 +1,6 @@
 # Maintenance-Application
 
-The aim of the project is to implement a responsive web application that may be utilized by UWE students and staff to report faulty equipment within the university campus. This project consits of an initial research that explored the staholders' opinion on the current system that based on contacting UWE IT Services by email as well as collected feedback on a range of proposed fatures of the maintenance application. The scope of the project consits of designing and developing a MVP that may be presented to UWE ITS as proof of concept.
+The aim of the project is to implement a responsive web application that may be utilized by UWE students and staff to report faulty equipment within the university campus. This project consits of an initial research that explored the staholders' opinion on the current system that based on contacting UWE IT Services by email as well as collected feedback on a range of proposed fatures of the maintenance application. The scope of the project consits of designing and developing a MVP that may be presented to UWE ITS as proof of concept for reporting technical issues with various equipment.
 
 # Project Description
 
@@ -10,21 +10,15 @@ Some of the challenges you faced and features you hope to implement in the futur
 
 Within UWE, QR codes are used around the whole campus as a way of knowing what lessons are taking place in specific rooms at what time. From this idea, we wanted to implement this into our project as a way of reporting technical issues. Students should be able to locate an issue and report it in a quick manner so the issue can be resolved without it being a major concern. The use of a QR code placed on each piece of technical equipment allows users to scan equipment on the go and report issues when needed.
 
-The flow of the new application is straightforward and establishes the following reporting process:
+The UWE Maintenance Application establishes the following reporting process:
 
-1	Scan QR code on faulty equipment.
-
-2	Input UWE username.
-
-3	Retrieve further equipment details and a questionnaire related to the issue from the database.
-
-4	Describe the technical issue in your own words.
-
-5	Upload optional photo evidence of the technical issue.
-
-6	Submit a request.
-
-7	Retrieve ticket number from the database.
+1. Scan the unique QR code that placed on the equipment.
+2. Input your UWE username.
+3. Retrieve a set of equipment details as well as a basic questionnaire related to the issue from the database.
+4. Describe the technical issue in your own words.
+5. Upload an optional photo evidence of the technical issue.
+6. Submit the service request.
+7. Retrieve an unique ticket number from the database.
 
 
  
