@@ -1,6 +1,15 @@
 # Maintenance-Application
 
+Project's Title
+This is the name of the project. It describes the whole project in one sentence, and helps people understand what the main goal and aim of the project is.
+
 Within the UWE learning environment, it can be difficult to report technical issues with different equipment. The reason for this is that many students believe that the process of reporting issues can be challenging. The impact this has, may cause disruption to work progress if the process of reporting is slow. To help students within the university report technical issues to an easy extent, our web application was designed. This prototype includes an application that connects to a database allowing users to scan a QR code and report technical issues based on equipment within the campus.             This application also provides huge satisfaction for IT services as they will be able to issue and locate tickets effectively based on the new system and therefore deal with issues quickly. 
+
+Project Description
+
+What your application does,
+Why you used the technologies you used,
+Some of the challenges you faced and features you hope to implement in the future.
  
 ![Wireframe_1(User)](https://user-images.githubusercontent.com/79979904/180199178-2ed540fe-ec46-483e-ae37-6a7db17bffa6.png)
 
@@ -15,7 +24,8 @@ Within the UWE learning environment, it can be difficult to report technical iss
 
 ![image](https://user-images.githubusercontent.com/79979904/180219145-9caa0eea-bec7-4c74-9fd9-dbe5d1d69083.png)
 
-
+How to Use the Project
+Provide instructions and examples so users/contributors can use the project. This will make it easy for them in case they encounter a problem – they will always have a place to reference what is expected.
 
 ![image](https://user-images.githubusercontent.com/79979904/180199771-f7100d7b-a13f-4c86-a851-07e6424b096f.png)
 
