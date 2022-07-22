@@ -65,9 +65,3 @@ Although the project's scope is limited to delivering a proof concept system tha
 * View the problem description and the details of the ticket submission
 * Access photo evidence 
 * Mark the selected ticket as completed
-
-
-
-
-
-
