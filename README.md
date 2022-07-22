@@ -2,7 +2,7 @@
 
 The aim of the project is to implement a responsive web application that may be utilized by UWE students and staff to report faulty equipment within the university campus. This project consits of an initial research that explored the staholders' opinion on the current system that based on contacting UWE IT Services by email as well as collected feedback on a range of proposed fatures of the maintenance application. The scope of the project consits of designing and developing a MVP that may be presented to UWE ITS as proof of concept for reporting technical issues with various equipment.
 
-### Project Description
+## Project Description
 
 UWE students and staff should be able to locate damaged teaching equipment and report it in a quick manner so the issue can be resolved without it being a major concern. QR codes placed on the relevant technical equipment allows users to report issues when needed.
 
