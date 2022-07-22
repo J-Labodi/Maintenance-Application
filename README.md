@@ -56,7 +56,8 @@ The application has been deployed on Heroku and it utilizes a relational databas
 
 ![Wireframe_2(ITS)](https://user-images.githubusercontent.com/79979904/180199257-a7e0cba0-b3c7-4dd0-a5fa-112cbea8d825.png)
 
-Although the project's scope is limited to delivering a proof concept system that can be utilized to report faulty equipment within the university campus, the application may be refactored considering the above-represented use case. The application may be extended with a set of features that would provide additional functionality to privileged users such as UWE IT Services technicians. Additional functionalities that may be implemented in the application for privileged users:  
+Although the project's scope is limited to delivering a proof concept system that can be utilized to report faulty equipment within the university campus, the application may be refactored considering the above-represented use case. The application may be extended with a set of features that would provide additional functionality to privileged users such as UWE IT Services technicians.
+Additional functionalities that may be implemented in the application for privileged users:  
 
 * New Equipment menu to record equipment into the database
 * Edit Details option to update existing equipment details
