@@ -2,7 +2,7 @@
 
 The aim of the project is to implement a responsive web application that may be utilized by UWE students and staff to report faulty equipment within the university campus. This project consits of an initial research that explored the staholders' opinion on the current system that based on contacting UWE IT Services by email as well as collected feedback on a range of proposed fatures of the maintenance application. The scope of the project consits of designing and developing a MVP that may be presented to UWE ITS as proof of concept for reporting technical issues with various equipment.
 
-# Project Description
+### Project Description
 
 UWE students and staff should be able to locate damaged teaching equipment and report it in a quick manner so the issue can be resolved without it being a major concern. QR codes placed on the relevant technical equipment allows users to report issues when needed.
 
@@ -27,7 +27,7 @@ The UWE Maintenance Application establishes the following reporting process:
 
 ![image](https://user-images.githubusercontent.com/79979904/180201836-8b133397-4820-49df-b896-626180cdc329.png)  
 
-# Access to the deployed MVP
+### Access to the deployed MVP
 
 <img src="https://user-images.githubusercontent.com/79979904/180199771-f7100d7b-a13f-4c86-a851-07e6424b096f.png" width="200">
 
@@ -52,7 +52,7 @@ During the process of reporting a technical issue with the application, the user
 ![DB](https://user-images.githubusercontent.com/79979904/180403775-c80867ab-e18c-4347-8c1e-0e6d25dd29d9.PNG)
 
 
-# Possible extension of the application  
+### Possible extension of the application  
 **UC2: Complete the service request**
 ![Wireframe_2(ITS)](https://user-images.githubusercontent.com/79979904/180199257-a7e0cba0-b3c7-4dd0-a5fa-112cbea8d825.png)
 
